@@ -1,4 +1,4 @@
-# CSharp-study
+# CSharp Study Code
 
 **FizzBuzz.cs** - basic if FizzBuzz /w length input or 100 numbers default.
 
